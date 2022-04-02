@@ -17,11 +17,25 @@ Welcome to QuickBlox [Credentials](https://docs.quickblox.com/docs/ios-quick-sta
 
 This Sample demonstrates how to work with [Conference](https://docs.quickblox.com/docs/ios-video-conference) QuickBlox module. 
 
-* Video/Audio Conference with 10-12 people
-* Join-Rejoin video room functionality (like Skype)
-* Mute/Unmute audio/video stream (own and opponents)
-* Display bitrate
-* Switch video input device (camera)
+# Features
+
+It allows to:
+
+1. Login/logout.
+2. Create a conference room.
+3. Leave a conference room.
+4. Add a new member to a conference room
+5. Participate in a  conference call as a streamer/watcher.
+6. Send and receive text messages and attachments.
+7. Enable/disable audio stream from an opponent
+8. Switch camera
+9. Enable/disable camera
+10. Mute/unmute the microphone
+11. Display the number of chat members
+12. Share a screen
+13. Change media settings
+14. Send/receive [push notification](https://docs.quickblox.com/docs/ios-push-notifications).
+15. Subscribe/unsubscribe device to [push notification](https://docs.quickblox.com/docs/ios-push-notifications).
 
 # CocoaPods
 
